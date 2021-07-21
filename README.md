@@ -1,13 +1,20 @@
 - 👋 Hi, I’m @Bloemenpot
 - 👀 I’m interested in
-  Gamedevelopment
-  Javadevelopment
+
+  GameDevelopment
+	
+  Java
 - 🌱 I’m currently learning
+
   C++
+	
   Unreal Engine Blueprint's
+	
   Java
 - 📫 How to reach me
+
   Twitter: @BloemenpotMC
+	
   Discord: Bloemenpot#4053
 
 <!---
